@@ -7,6 +7,7 @@ Vendor:
 - Menu editing
 - Order checking
 - Updating orders
+
 Student:
 - Menu browsing
 - Order submission
