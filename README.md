@@ -3,9 +3,13 @@
 A Kivy-based application that allows users to browse menus and place orders.
 
 ## Features
-- Menu selection
-- Order summary
-- Simple UI
+Vendor:
+- Menu editing
+- Order checking
+- Updating orders
+Student:
+- Menu browsing
+- Order submission
 
 ## Tech Stack
 - Python
