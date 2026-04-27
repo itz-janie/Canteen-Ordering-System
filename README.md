@@ -28,5 +28,6 @@ Steps:
 5. Place it in the project root folder
 
 ## How to Run
-pip install -r requirements.txt
-python main.py
+- pip install -r requirements.txt
+- python student_app.py/vendor_app.py
+  
